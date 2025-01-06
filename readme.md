@@ -14,6 +14,3 @@ git add <file name >
 git push -u origin main
 
 nothing is coming
-
-iam not learning devops
-imran and sam lovers
