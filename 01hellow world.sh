@@ -4,5 +4,3 @@
  echo "imran is devops engineer"
  echo "sam my wife"
  echo "no she is my lover"
- echo "       my ammadi    "
- echo "choooth ki mulli"
