@@ -1,8 +1,8 @@
 #!/bin/bash
-PERSON1=$1
-PERSON2=$2
+human1=$1
+human2=$2
 
-echo "$PERSON1:: hello $PERSON2, how are you?"
-echo "$PERSON2:: hi $PERSON1 iam fn. how are you ?"
-echo "$PERSON1 iam fine too, how is ur work "
-echo "$PERSON2 not bad, already iam a devops engineer"
+echo "$human1:: hello $human2, how are you?"
+echo "$human2:: hi $human1 iam fn. how are you ?"
+echo "$human1 iam fine too, how is ur work "
+echo "$human2 not bad, iam thinking to upgrade to devops"
