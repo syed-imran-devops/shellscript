@@ -1,6 +1,8 @@
 #!/bin/bash
+person1=imran
+person2=irfan
 
-echo "imran:hi irfan how r u ?"
-echo "irfan:hlo imran iam fine how about you"
-echo "imran:iam also gud imran, are you going to join in devops course?"
-echo "irfan: no imran iam already working as an devops engineer"
+echo "person1:hi person2 how r u ?"
+echo "person2:hlo person1 iam fine how about you"
+echo "person1:iam also gud person2, are you going to join in devops course?"
+echo "person2: no person1 iam already working as an devops engineer"
