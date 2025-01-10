@@ -1,6 +1,6 @@
 #!/bin/bash
 
-movies={"rrr" "idiot" "manasa"}
+movies=("rrr" "idiot" "manasa")
 
 
 echo "first movie is ${movies[0]}"
